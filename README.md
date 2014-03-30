@@ -8,5 +8,5 @@ A set of Java utils for Jenkins.
 
 Getting Started
 ================
-Clone the code locally and build with Maven. Here is an example of sample useage of the submitJob(...) method as a Gist:
+Clone the code locally and build with Maven. Here is an example of sample usage of the submitJob(...) method as a Gist:
 https://gist.github.com/bryantrobbins/9872943
